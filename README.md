@@ -1,4 +1,4 @@
-Check out image inside the folder <imgsrc>
+Check out image inside the folder `imgsrc`
 
 <h1>What is zl-gnome-tiling/simple-gnome-tiling?</h1><p></p>
 It is a lightweight, mostly script-driven WM for GNOME. This is the most simplest way to make GNOME a WM as removing GNOME stuff to turn back into pure Mutter is a lot of work to do.
