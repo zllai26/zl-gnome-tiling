@@ -29,9 +29,9 @@ You can try out a TWM is like on GNOME (most popular DE) and have a script to ch
 <br>
 
 2. Compile and run the scripts with bash in front
-3. <br>
+<br>
 
-4. Happy using ur new waybar
+3. Happy using ur new waybar
 <br>
 
 <h2>Author & Licensing</h2><p></p>
